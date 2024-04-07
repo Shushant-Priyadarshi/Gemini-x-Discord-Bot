@@ -4,7 +4,7 @@
 https://github.com/Shushant-Priyadarshi/Gemini-x-Discord-Bot/assets/148479955/4db650c0-f8de-44d3-bcd1-10b35bafc3f3
 
 # Features
-- Real-time Data: Access live data from Gemini Exchange.
+- Real-time Data: Access live data from Gemini.
 - Interactive Commands: Use interactive commands to query specific information or perform actions within Discord.
 - Customizable Configuration: Easily configure bot settings and customize functionalities according to your server's needs.
 
