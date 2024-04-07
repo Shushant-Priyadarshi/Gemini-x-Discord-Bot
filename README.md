@@ -4,9 +4,8 @@
 https://github.com/Shushant-Priyadarshi/Gemini-x-Discord-Bot/assets/148479955/4db650c0-f8de-44d3-bcd1-10b35bafc3f3
 
 # Features
-- Real-time Market Data: Access live cryptocurrency prices, trading volume, and other market metrics from Gemini Exchange.
-- Price Alerts: Set up price alerts for specific cryptocurrencies to be notified when prices hit certain thresholds.
-- Interactive Commands: Use interactive commands to query specific cryptocurrency information or perform actions within Discord.
+- Real-time Data: Access live data from Gemini Exchange.
+- Interactive Commands: Use interactive commands to query specific information or perform actions within Discord.
 - Customizable Configuration: Easily configure bot settings and customize functionalities according to your server's needs.
 
 # Contributing
